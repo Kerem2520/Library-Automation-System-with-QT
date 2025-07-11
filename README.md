@@ -1,3 +1,3 @@
 ## Image
 
-![Image](Library Atuomation System/images/Gorsel1.png)
+![Image](images/Gorsel1.png)
