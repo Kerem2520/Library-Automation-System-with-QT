@@ -1,3 +1,3 @@
 ## Image
 
-![Image](images/Gorsel1.png)
+![Image](Gorsel1.png)
